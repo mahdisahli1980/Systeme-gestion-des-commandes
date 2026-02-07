@@ -1,0 +1,12 @@
+
+ Le client est : ghassen
+     -Code article : B08LBYDZ1Q **** Quantité commandée : 4
+     -Code article : B084GZ28RK **** Quantité commandée : 2
+ Nombre d'articles : 6
+ Montant de la commande : 89.78
+ Le client est : mahdi
+     -Code article : B08LBYDZ1Q **** Quantité commandée : 4
+     -Code article : B084GZ28RK **** Quantité commandée : 2
+     -Code article : B0BYT4SGZV **** Quantité commandée : 5
+ Nombre d'articles : 11
+ Montant de la commande : 169.73000000000002
